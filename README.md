@@ -63,5 +63,5 @@ img/cd.JPG
 ### 11. Ejemplifique el comando de Linux: cat
 
 - Se utiliza para mostrar el contenido de archivos de texto en la salida estándar del sistema.
-img/cat.JPG
-
+- [img/cat.JPG
+](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-Jcod7/blob/5839091c03615b564e80cee4de69a8fc4b762dd2/img/cat.JPG)
