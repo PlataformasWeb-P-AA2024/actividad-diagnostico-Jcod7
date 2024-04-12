@@ -21,13 +21,37 @@ Java,TypeScript,Python,JavaScript
 
 ### 3. Ejemplifique el comando de Linux: mv
 
+- Se usa para mover un archivo a un directorio.
+
 ### 4. Ejemplifique el comando de Linux: cp
-Sirve para copiar archivos de directorios
+
+- Copia de un directorio original a un directorio de destino.
+
 ### 5. Ejemplifique el comando de Linux: mkdir
+
+- Sirve para crear un directorio nuevo.
+  
 ### 6. Ejemplifique el comando de Linux: ls
+
+- Enlista los archivos que se encuentran en el directorio actual.
+  
 ### 7. Ejemplifique el comando de Linux: pwd
+
+- Este comando muestra la ruta del directorio de trabajo actual en el que te encuentras.
+  
 ### 8. Ejemplifique el comando de Linux: touch
+
+- Se utiliza para crear un archivo vacío o para actualizar la fecha y hora de acceso/modificación de un archivo existente. Si el archivo especificado no existe, touch lo creará. Si ya existe, touch simplemente actualizará la fecha y hora de acceso/modificación del archivo.
+  
 ### 9. Ejemplifique el comando de Linux: grep
+
+- Se utiliza para buscar patrones de texto dentro de archivos de texto.
+  
 ### 10. Ejemplifique el comando de Linux: cd
-### 11. Ejemplifique el comando de Linux: mv
-### 12. Ejemplifique el comando de Linux: cat
+
+- Se utiliza para cambiar de directorio.
+
+### 11. Ejemplifique el comando de Linux: cat
+
+- Se utiliza para mostrar el contenido de archivos de texto en la salida estándar del sistema.
+
