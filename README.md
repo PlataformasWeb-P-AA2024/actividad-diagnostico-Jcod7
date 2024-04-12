@@ -27,7 +27,7 @@ Java,TypeScript,Python,JavaScript
 ### 4. Ejemplifique el comando de Linux: cp
 
 - Copia de un directorio original a un directorio de destino.
-- ![Comando cd](img/cd.JPG)
+- ![Comando cp](img/cp.JPG)
 
 ### 5. Ejemplifique el comando de Linux: mkdir
 
