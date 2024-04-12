@@ -24,6 +24,7 @@ Java,TypeScript,Python,JavaScript
 ### 4. Ejemplifique el comando de Linux: cp
 Sirve para copiar archivos de directorios
 ### 5. Ejemplifique el comando de Linux: mkdir
+https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-Jcod7/Jcod7-imagenes/imagenes/mkdir.JPG
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
 ### 8. Ejemplifique el comando de Linux: touch
